@@ -1,3 +1,5 @@
+package org.example;
+
 public class leetcode_circlelink {
     public static void main(String[] args) {
 

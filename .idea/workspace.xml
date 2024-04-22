@@ -4,26 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52e30c95-4791-4019-a8d3-2e89362de4f8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FindAncestorNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/LRUcache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ThreadPoolTrader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/kreverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/questionthree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/前序中序后序二叉树.java" afterDir="false" />
+    <list default="true" id="52e30c95-4791-4019-a8d3-2e89362de4f8" name="Changes" comment="add">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/leetcode_circlelink.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/leetcode_circlelink.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/leetcode_link.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/leetcode_link.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,8 +75,23 @@
       <workItem from="1712493146615" duration="3592000" />
       <workItem from="1712663637216" duration="3480000" />
       <workItem from="1712828863488" duration="1019000" />
-      <workItem from="1713082663700" duration="1551000" />
+      <workItem from="1713082663700" duration="4460000" />
     </task>
+    <task id="LOCAL-00001" summary="add">
+      <created>1713091806556</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713091806556</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add">
+      <created>1713091920977</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713091920977</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,5 +107,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add" />
+    <option name="LAST_COMMIT_MESSAGE" value="add" />
   </component>
 </project>
